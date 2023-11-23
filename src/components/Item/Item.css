@@ -1,0 +1,14 @@
+.card-title{
+    color: blue;
+}
+.card-text {
+    color: black;
+    
+}
+.card-image {
+    height: 18rem;
+    border: 3px solid black;
+}
+.container-card {
+    margin: 10px 0;
+}
